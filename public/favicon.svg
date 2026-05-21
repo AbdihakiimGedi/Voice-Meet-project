@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VoiceMeet">
+  <rect width="64" height="64" rx="18" fill="#111827"/>
+  <path fill="#fff" d="M32 12c-5 0-9 4-9 9v12c0 5 4 9 9 9s9-4 9-9V21c0-5-4-9-9-9Z"/>
+  <path fill="#2563eb" d="M27 21c0-2.76 2.24-5 5-5s5 2.24 5 5v12c0 2.76-2.24 5-5 5s-5-2.24-5-5V21Z"/>
+  <path fill="#fff" d="M18 30a2 2 0 1 1 4 0v3c0 5.52 4.48 10 10 10s10-4.48 10-10v-3a2 2 0 1 1 4 0v3c0 7.06-5.2 12.9-12 13.86V52h6a2 2 0 1 1 0 4H24a2 2 0 1 1 0-4h6v-5.14C23.2 45.9 18 40.06 18 33v-3Z"/>
+  <path fill="#60a5fa" d="M31 20h2v16h-2z"/>
+</svg>
